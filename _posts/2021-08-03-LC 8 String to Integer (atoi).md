@@ -4,7 +4,7 @@ title: LC 8 String to Integer (atoi)
 categories: [LeetCode, String, Medium]
 ---
 
-LeetCode Link: https://leetcode.com/problems/string-to-integer-atoi/ 
+LeetCode Link: https://leetcode.com/problems/string-to-integer-atoi/   
 Language: `C#`
 
 # Problem Statement #
