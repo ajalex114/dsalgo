@@ -1,7 +1,7 @@
 ---
 layout: post
 title: LC 11 Container With Most Water
-categories: [LeetCode, array, Medium]
+categories: [LeetCode, Array, Medium]
 ---
 
 LeetCode Link: https://leetcode.com/problems/container-with-most-water/   

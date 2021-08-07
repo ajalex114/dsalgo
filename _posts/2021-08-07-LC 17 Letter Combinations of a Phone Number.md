@@ -1,7 +1,7 @@
 ---
 layout: post
 title: LC 17 Letter Combinations of a Phone Number
-categories: [LeetCode, recursion, Medium]
+categories: [LeetCode, Recursion, Medium]
 ---
 
 LeetCode Link: https://leetcode.com/problems/letter-combinations-of-a-phone-number/  
