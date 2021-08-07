@@ -1,7 +1,7 @@
 ---
 layout: post
 title: LC 14 Longest Common Prefix
-categories: [LeetCode, string, Easy]
+categories: [LeetCode, String, Easy]
 ---
 
 LeetCode Link: https://leetcode.com/problems/longest-common-prefix/  
