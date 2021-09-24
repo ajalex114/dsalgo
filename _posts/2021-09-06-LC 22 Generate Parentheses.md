@@ -62,7 +62,6 @@ public class Solution
         {
             Backtrack(list, curr + ")", open, closed + 1, max);
         }
-
     }
 }
 ```
