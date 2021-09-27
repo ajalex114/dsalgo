@@ -148,3 +148,8 @@ Now step back, not forward.
 `[1, -1]`
 
 This now removes all of it.
+
+## Complexities
+
+**Time Complexity**: `O(N)`  
+**Space Complexity**: `O(N)`
