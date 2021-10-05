@@ -7,7 +7,7 @@ categories: [LeetCode, String, Easy]
 LeetCode Link: https://leetcode.com/problems/longest-common-prefix/  
 Language: `C#`
 
-# Problem Statement #
+## Problem Statement
 
 ```
 Write a function to find the longest common prefix string amongst an array of strings.
@@ -35,7 +35,7 @@ Explanation: There is no common prefix among the input strings.
 * 0 <= strs[i].length <= 200
 * strs[i] consists of only lower-case English letters.
 
-# Solution
+## Solution
 
 ``` csharp
 public class Solution 
@@ -79,6 +79,8 @@ public class Solution
     }
 }
 ```
+
+## Complexity
 
 _Time Complexity: `O(m*n)` where m is the number of strings and n is the length of each string_  
 _Space Complexity: `O(1)`_  

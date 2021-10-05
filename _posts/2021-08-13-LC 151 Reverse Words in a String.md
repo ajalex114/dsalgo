@@ -7,7 +7,7 @@ categories: [LeetCode, String, Medium]
 LeetCode Link: https://leetcode.com/problems/reverse-words-in-a-string/  
 Language: `C#`
 
-# Problem Statement #
+## Problem Statement
 
 Given an input string s, reverse the order of the `words`.
 
@@ -59,7 +59,7 @@ Output: "bob like even not does Alice"
 * s contains English letters (upper-case and lower-case), digits, and spaces ' '.
 * There is at least one word in s.
 
-# Solution
+## Solution
 
 ``` csharp
 public class Solution 
@@ -109,6 +109,8 @@ public class Solution
     }
 }
 ```
+
+## Complexity 
 
 _Time Complexity: `O(n)`_  
 _Space Complexity: `O(1)`_

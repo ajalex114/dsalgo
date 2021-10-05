@@ -7,7 +7,7 @@ categories: [LeetCode, Array, Medium, G, Ap]
 LeetCode Link: [https://leetcode.com/problems/rle-iterator/](https://leetcode.com/problems/rle-iterator/)  
 Language: `C#`
 
-# Problem Statement #
+## Problem Statement
 
 We can use run-length encoding (i.e., RLE) to encode a sequence of integers. In a run-length encoded array of even length encoding (0-indexed), for all even i, encoding[i] tells us the number of times that the non-negative integer value encoding[i + 1] is repeated in the sequence.
 
@@ -47,7 +47,7 @@ but the second term did not exist. Since the last term exhausted does not exist,
 * 1 <= n <= 109
 * At most 1000 calls will be made to next.
 
-# Solution
+## Solution
 
 ``` csharp
 public class RLEIterator 
@@ -96,7 +96,7 @@ public class RLEIterator
  */
 ```
 
-# Notes
+## Notes
 
 In a Brute Force Approach, one could actually populate the list of items.
 But that would bring up the time and space complexity.

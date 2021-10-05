@@ -7,7 +7,7 @@ categories: [LeetCode, Array, 2D, Medium, G, M, A]
 LeetCode Link: [https://leetcode.com/problems/count-square-submatrices-with-all-ones/](https://leetcode.com/problems/count-square-submatrices-with-all-ones/)  
 Language: `C#`
 
-# Problem Statement #
+## Problem Statement
 
 Given a m * n matrix of ones and zeros, return how many square submatrices have all ones.
 
@@ -52,7 +52,7 @@ Total number of squares = 6 + 1 = 7.
 * 1 <= arr[0].length <= 300
 * 0 <= arr[i][j] <= 1
 
-# Solution
+## Solution
 
 ``` csharp
 public class Solution 

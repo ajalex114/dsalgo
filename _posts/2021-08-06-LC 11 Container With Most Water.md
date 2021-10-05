@@ -7,7 +7,7 @@ categories: [LeetCode, Array, Medium]
 LeetCode Link: https://leetcode.com/problems/container-with-most-water/   
 Language: `C#`
 
-# Problem Statement #
+## Problem Statement
 
 ```
 Given n non-negative integers a1, a2, ..., an , where each represents a point at coordinate (i, ai).  
@@ -50,7 +50,7 @@ Output: 2
 * 2 <= n <= 105
 * 0 <= height[i] <= 104
 
-# Solution
+## Solution
 
 ``` csharp
 public class Solution 
@@ -82,6 +82,7 @@ public class Solution
     }
 }
 ```
+## Complexity 
 
 _Time Complexity: `O(n)`_  
 _Space Complexity: `O(1)`_  

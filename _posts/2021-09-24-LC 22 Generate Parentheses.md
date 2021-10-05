@@ -7,7 +7,7 @@ categories: [LeetCode, BackTracking, Medium]
 LeetCode Link: [https://leetcode.com/problems/generate-parentheses/](https://leetcode.com/problems/generate-parentheses/)  
 Language: `C#`
 
-# Problem Statement #
+## Problem Statement
 
 Given n pairs of parentheses, write a function to generate all combinations of well-formed parentheses.
 ## Examples
@@ -30,7 +30,7 @@ Output: ["()"]
 
 * 1 <= n <= 8
 
-# Solution
+## Solution
 
 ``` csharp
 public class Solution 

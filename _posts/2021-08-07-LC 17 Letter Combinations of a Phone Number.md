@@ -7,7 +7,7 @@ categories: [LeetCode, Recursion, Medium]
 LeetCode Link: https://leetcode.com/problems/letter-combinations-of-a-phone-number/  
 Language: `C#`
 
-# Problem Statement #
+## Problem Statement
 
 ```
 Given a string containing digits from 2-9 inclusive,  
@@ -41,7 +41,7 @@ Output: ["a","b","c"]
 * 0 <= digits.length <= 4
 * digits[i] is a digit in the range ['2', '9'].
 
-# Solution
+## Solution
 
 ``` csharp
 public class Solution 
@@ -103,6 +103,7 @@ public class Solution
     }
 }
 ```
+## Complexity 
 
 _Time Complexity: `O(m^n)` where m is the number of digits and n is the number of characters_  
 

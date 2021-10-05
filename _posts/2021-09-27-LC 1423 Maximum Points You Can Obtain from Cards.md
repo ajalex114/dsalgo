@@ -7,7 +7,7 @@ categories: [LeetCode, Array, Medium, G, Ap]
 LeetCode Link: [https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/)  
 Language: `C#`
 
-# Problem Statement #
+## Problem Statement
 
 There are several cards arranged in a row, and each card has an associated number of points. The points are given in the integer array cardPoints.
 
@@ -64,7 +64,7 @@ Output: 202
 * 1 <= cardPoints[i] <= 104
 * 1 <= k <= cardPoints.length
 
-# Solution
+## Solution
 
 ``` csharp
 public class Solution 
@@ -98,7 +98,7 @@ public class Solution
 }
 ```
 
-# Notes
+## Notes
 
 You could take the sum from a combination of `from the beginning` and `from the end`. 
 

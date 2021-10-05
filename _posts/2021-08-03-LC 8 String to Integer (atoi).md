@@ -7,7 +7,7 @@ categories: [LeetCode, String, Medium]
 LeetCode Link: https://leetcode.com/problems/string-to-integer-atoi/   
 Language: `C#`
 
-# Problem Statement #
+## Problem Statement
 
 ```
 Implement the myAtoi(string s) function, which converts a string to a 32-bit signed integer (similar to C/C++'s atoi function).
@@ -99,7 +99,7 @@ Since -91283472332 is less than the lower bound of the range [-231, 231 - 1], th
 * 0 <= s.length <= 200
 * s consists of English letters (lower-case and upper-case), digits (0-9), ' ', '+', '-', and '.'.
 
-# Solution
+## Solution
 
 ``` csharp
 public class Solution {

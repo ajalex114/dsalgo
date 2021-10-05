@@ -7,7 +7,7 @@ categories: [LeetCode, Array, Medium, G, F]
 LeetCode Link: [https://leetcode.com/problems/rotated-digits/](https://leetcode.com/problems/rotated-digits/)  
 Language: `C#`
 
-# Problem Statement #
+## Problem Statement
 
 An integer x is a good if after rotating each digit individually by 180 degrees, we get a valid number that is different from x. Each digit must be rotated - we cannot choose to leave it alone.
 
@@ -48,7 +48,7 @@ Output: 1
 
 * 1 <= n <= 104
 
-# Solution
+## Solution
 
 ``` csharp
 public class Solution 
@@ -100,10 +100,12 @@ public class Solution
 }
 ```
 
-# Notes
+## Complexity
 
 Time Complexity: `O(N*L)`  
 where `N` is the range and `L` is the number of digits.  
 Space Complexity: `O(1)`
+
+## Notes
 
 This can also be solved using Dynamic Programming. I have not used it in this solution.

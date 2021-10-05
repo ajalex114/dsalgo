@@ -7,7 +7,7 @@ categories: [LeetCode, Array, Medium, G]
 LeetCode Link: [https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/](https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/)  
 Language: `C#`
 
-# Problem Statement #
+## Problem Statement
 
 Given an array nums, you are allowed to choose one element of nums and change it by any value in one move.
 
@@ -52,7 +52,7 @@ Output: 1
 * 1 <= nums.length <= 10^5
 * -10^9 <= nums[i] <= 10^9
 
-# Solution
+## Solution
 
 ``` csharp
 public class Solution 
@@ -88,7 +88,7 @@ public class Solution
 }
 ```
 
-# Notes
+## Notes
 
 This one's a bit tricky.  
 Basically what you have to understand is that the best option is to replace the first four items with the first item or the last 4 item with the last but the 4th item.  

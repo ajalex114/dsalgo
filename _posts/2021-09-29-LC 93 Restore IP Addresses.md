@@ -7,7 +7,7 @@ categories: [LeetCode, Array, Medium, G, Ap, M, A, F]
 LeetCode Link: [https://leetcode.com/problems/restore-ip-addresses/](https://leetcode.com/problems/restore-ip-addresses/)  
 Language: `C#`
 
-# Problem Statement #
+## Problem Statement
 
 Given a string s containing only digits, return all possible valid IP addresses that can be obtained from s. You can return them in any order.
 
@@ -55,7 +55,7 @@ Output: ["1.0.10.23","1.0.102.3","10.1.0.23","10.10.2.3","101.0.2.3"]
 * 0 <= s.length <= 3000
 * s consists of digits only.
 
-# Solution
+## Solution
 
 ``` csharp
 public class Solution 
@@ -181,7 +181,7 @@ public class Solution
 }
 ```
 
-# Notes
+## Notes
 
 Following backtracking mechanism.  
 Have added multiple checks as part of optimization

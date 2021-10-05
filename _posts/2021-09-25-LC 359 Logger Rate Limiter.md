@@ -7,7 +7,7 @@ categories: [LeetCode, Stream, Easy, G]
 LeetCode Link: [https://leetcode.com/problems/logger-rate-limiter/](https://leetcode.com/problems/logger-rate-limiter/)  
 Language: `C#`
 
-# Problem Statement #
+## Problem Statement
 
 Design a logger system that receives a stream of messages along with their timestamps. Each unique message should only be printed at most every 10 seconds (i.e. a message printed at timestamp t will prevent other identical messages from being printed until timestamp t + 10).
 
@@ -47,7 +47,7 @@ logger.shouldPrintMessage(11, "foo"); // 11 >= 11, return true, next allowed tim
 * 1 <= message.length <= 30
 * At most 104 calls will be made to shouldPrintMessage.
 
-# Solution
+## Solution
 
 ``` csharp
 public class Logger 
@@ -83,7 +83,8 @@ public class Logger
  */
 ```
 
-# Notes
+## Notes
+
 The trick lies in understanding the question.  
 Once you understand it, its fairly simple.  
 

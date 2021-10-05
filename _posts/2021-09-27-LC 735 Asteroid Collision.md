@@ -7,7 +7,7 @@ categories: [LeetCode, Array, LinkedList, Medium, G, M, U, F, A]
 LeetCode Link: [https://leetcode.com/problems/asteroid-collision/](https://leetcode.com/problems/asteroid-collision/)  
 Language: `C#`
 
-# Problem Statement #
+## Problem Statement
 
 We are given an array asteroids of integers representing asteroids in a row.
 
@@ -55,7 +55,7 @@ Explanation: The -2 and -1 are moving left, while the 1 and 2 are moving right. 
 * -1000 <= asteroids[i] <= 1000
 * asteroids[i] != 0
 
-# Solution
+## Solution
 
 ``` csharp
 public class Solution 
@@ -124,7 +124,7 @@ public class Solution
 }
 ```
 
-# Notes
+## Notes
 
 Please note to move back or stay on the same node, if you remove a particular node.  
 This is so that, you compare the current node with the next available node as well after removing a node.
