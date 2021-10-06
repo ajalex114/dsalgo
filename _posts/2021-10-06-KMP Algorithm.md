@@ -1,7 +1,7 @@
 ---
 layout: post
-title: LC 299 Bulls and Cows
-categories: [LeetCode, Array, Medium, G]
+title: KMP Algorithm
+categories: [GFG, String, PatternSearch, Medium]
 ---
 
 GFG Link: [https://www.geeksforgeeks.org/kmp-algorithm-for-pattern-searching/](https://www.geeksforgeeks.org/kmp-algorithm-for-pattern-searching/)  
