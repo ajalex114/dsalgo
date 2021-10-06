@@ -222,6 +222,6 @@ KmpSearch(pattern, text);
 ## Complexity
 
 Time Complexity: `O(N)`  
-where `N` is the length of `text`
+where `N` is the length of `text`  
 Space Complexity: `O(M)`  
 where `M` is the length of `pattern`
