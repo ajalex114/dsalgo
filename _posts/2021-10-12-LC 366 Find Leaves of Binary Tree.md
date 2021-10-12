@@ -103,3 +103,10 @@ public class Solution
 
 Time Complexity: `O(N)`  
 Space Complexity: `O(N)`
+
+## Notes
+
+Utilize Hashmap for mapping the heights.  
+A leaf node will have a height of -1 (or 0 based on the implementation).  
+Utilize this, create a hashmap, where height is the key and the nodes at that height are the values.  
+Iterate through these heights and return the list of all the list of nodes.
