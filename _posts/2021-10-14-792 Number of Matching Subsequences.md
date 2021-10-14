@@ -1,0 +1,87 @@
+---
+layout: post
+title: LC 792 Number of Matching Subsequences
+categories: [LeetCode, Array, 2D, Medium, G]
+---
+
+LeetCode Link: [https://leetcode.com/problems/number-of-matching-subsequences/](https://leetcode.com/problems/number-of-matching-subsequences/)  
+Language: `C#`
+
+## Problem Statement
+
+Given a string s and an array of strings words, return the number of words[i] that is a subsequence of s.
+
+A subsequence of a string is a new string generated from the original string with some characters (can be none) deleted without changing the relative order of the remaining characters.
+
+For example, "ace" is a subsequence of "abcde".
+
+## Examples
+
+Example 1:
+
+```
+Input: s = "abcde", words = ["a","bb","acd","ace"]
+Output: 3
+Explanation: There are three strings in words that are a subsequence of s: "a", "acd", "ace".
+```
+
+Example 2:
+
+```
+Input: s = "dsahjpjauf", words = ["ahjpjau","ja","ahbwzgqnuk","tnmlanowax"]
+Output: 2
+```
+
+## Constraints  
+
+* 1 <= s.length <= 5 * 104
+* 1 <= words.length <= 5000
+* 1 <= words[i].length <= 50
+* s and words[i] consist of only lowercase English letters.
+
+## Solution
+
+``` csharp
+public class Solution 
+{
+    public int NumMatchingSubseq(string s, string[] words) 
+    {        
+        int count = 0;
+        
+        for (int i=0; i< words.Length; i++)
+        {
+            if (IsSubSequence(s, words[i]))
+            {
+                count++;
+            }
+        }
+        
+        return count;
+    }
+    
+    private bool IsSubSequence(string s, string word)
+    {
+        int j = 0;
+        
+        for (int i=0; i<s.Length; i++)
+        {
+            if(s[i] == word[j])
+            {                
+                j++;
+            }
+            
+            if (j == word.Length)
+            {
+                return true;
+            }
+        }
+        
+        return false;
+    }
+}
+```
+
+## Complexity
+
+Time Complexity: `O(mn)`  
+Space Complexity: `O(mn)`  
