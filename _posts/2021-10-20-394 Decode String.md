@@ -1,7 +1,7 @@
 ---
 layout: post
 title: LC 394 Decode String
-categories: [LeetCode, Tree, BST, Easy, U]
+categories: [LeetCode, Stack, Medium, G, M, U, A, F, O]
 ---
 
 LeetCode Link: [https://leetcode.com/problems/decode-string/](https://leetcode.com/problems/decode-string/)  
