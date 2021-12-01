@@ -1,7 +1,7 @@
 ---
 layout: post
 title: LC 206 Reverse Linked List
-categories: [LeetCode, LinkedList, Recursion, Easy, A, M, G, F]
+categories: [LeetCode, LinkedList, Recursion, Easy, Amazon, Microsoft, Google, Facebook]
 ---
 
 LeetCode Link: [https://leetcode.com/problems/reverse-linked-list/](https://leetcode.com/problems/reverse-linked-list/)  

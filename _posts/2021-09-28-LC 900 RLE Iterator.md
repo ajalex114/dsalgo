@@ -1,7 +1,7 @@
 ---
 layout: post
 title: LC 900 RLE Iterator
-categories: [LeetCode, Array, Medium, G, Ap]
+categories: [LeetCode, Array, Medium, Google, Apple]
 ---
 
 LeetCode Link: [https://leetcode.com/problems/rle-iterator/](https://leetcode.com/problems/rle-iterator/)  

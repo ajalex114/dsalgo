@@ -1,7 +1,7 @@
 ---
 layout: post
 title: LC 788 Rotated Digits
-categories: [LeetCode, Array, Medium, G, F]
+categories: [LeetCode, Array, Medium, Google, Facebook]
 ---
 
 LeetCode Link: [https://leetcode.com/problems/rotated-digits/](https://leetcode.com/problems/rotated-digits/)  

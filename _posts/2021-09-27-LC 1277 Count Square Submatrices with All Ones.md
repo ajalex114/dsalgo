@@ -1,7 +1,7 @@
 ---
 layout: post
 title: LC 1277 Count Square Submatrices with All Ones
-categories: [LeetCode, Array, 2D, Medium, G, M, A]
+categories: [LeetCode, Array, 2D, Medium, Google, Microsoft, Amazon]
 ---
 
 LeetCode Link: [https://leetcode.com/problems/count-square-submatrices-with-all-ones/](https://leetcode.com/problems/count-square-submatrices-with-all-ones/)  

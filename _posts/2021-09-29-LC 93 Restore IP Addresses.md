@@ -1,7 +1,7 @@
 ---
 layout: post
 title: LC 93 Restore IP Addresses
-categories: [LeetCode, Array, Medium, G, Ap, M, A, F]
+categories: [LeetCode, Array, Medium, Google, Apple, Microsoft, Amazon, Facebook]
 ---
 
 LeetCode Link: [https://leetcode.com/problems/restore-ip-addresses/](https://leetcode.com/problems/restore-ip-addresses/)  

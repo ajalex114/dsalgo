@@ -1,7 +1,7 @@
 ---
 layout: post
 title: LC 1423 Maximum Points You Can Obtain from Cards
-categories: [LeetCode, Array, Medium, G, Ap]
+categories: [LeetCode, Array, Medium, Google, Apple]
 ---
 
 LeetCode Link: [https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/)  

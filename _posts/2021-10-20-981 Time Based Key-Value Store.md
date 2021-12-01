@@ -1,7 +1,7 @@
 ---
 layout: post
 title: LC 981 Time Based Key-Value Store
-categories: [LeetCode, HashMap, Medium, G, M, A, Ap, N, O]
+categories: [LeetCode, HashMap, Medium, Google, Microsoft, Amazon, Apple, Netflix, Oracle]
 ---
 
 LeetCode Link: [https://leetcode.com/problems/time-based-key-value-store/](https://leetcode.com/problems/time-based-key-value-store/)  

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: LC 700 Search in a Binary Search Tree
-categories: [LeetCode, Tree, BST, Easy, U]
+categories: [LeetCode, Tree, BST, Easy, Uber]
 ---
 
 LeetCode Link: [https://leetcode.com/problems/search-in-a-binary-search-tree/](https://leetcode.com/problems/search-in-a-binary-search-tree/)  

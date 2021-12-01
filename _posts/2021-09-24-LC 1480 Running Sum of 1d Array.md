@@ -1,7 +1,7 @@
 ---
 layout: post
 title: LC 1480 Running Sum of 1d Array
-categories: [LeetCode, Array, Easy, G]
+categories: [LeetCode, Array, Easy, Google]
 ---
 
 LeetCode Link: [https://leetcode.com/problems/running-sum-of-1d-array/](https://leetcode.com/problems/running-sum-of-1d-array/)  

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: LC 735 Asteroid Collision
-categories: [LeetCode, Array, LinkedList, Medium, G, M, U, F, A]
+categories: [LeetCode, Array, LinkedList, Medium, Google, Microsoft, Uber, Facebook, Amazon]
 ---
 
 LeetCode Link: [https://leetcode.com/problems/asteroid-collision/](https://leetcode.com/problems/asteroid-collision/)  

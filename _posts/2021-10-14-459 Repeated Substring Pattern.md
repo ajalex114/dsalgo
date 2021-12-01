@@ -1,7 +1,7 @@
 ---
 layout: post
 title: LC 459 Repeated Substring Pattern
-categories: [LeetCode, String, Easy, G]
+categories: [LeetCode, String, Easy, Google]
 ---
 
 LeetCode Link: [https://leetcode.com/problems/repeated-substring-pattern/](https://leetcode.com/problems/repeated-substring-pattern/)  

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: LC 1048 Longest String Chain
-categories: [LeetCode, String, DP, Medium, G]
+categories: [LeetCode, String, DP, Medium, Google]
 ---
 
 LeetCode Link: [https://leetcode.com/problems/longest-string-chain/](https://leetcode.com/problems/longest-string-chain/)  

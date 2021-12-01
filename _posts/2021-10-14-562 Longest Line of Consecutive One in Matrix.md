@@ -1,7 +1,7 @@
 ---
 layout: post
 title: LC 562 Longest Line of Consecutive One in Matrix
-categories: [LeetCode, Array, 2D, Medium, G]
+categories: [LeetCode, Array, 2D, Medium, Google]
 ---
 
 LeetCode Link: [https://leetcode.com/problems/longest-line-of-consecutive-one-in-matrix/](https://leetcode.com/problems/longest-line-of-consecutive-one-in-matrix/)  

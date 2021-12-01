@@ -1,7 +1,7 @@
 ---
 layout: post
 title: LC 359 Logger Rate Limiter
-categories: [LeetCode, Stream, Easy, G]
+categories: [LeetCode, Stream, Easy, Google]
 ---
 
 LeetCode Link: [https://leetcode.com/problems/logger-rate-limiter/](https://leetcode.com/problems/logger-rate-limiter/)  

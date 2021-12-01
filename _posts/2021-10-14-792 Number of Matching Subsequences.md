@@ -1,7 +1,7 @@
 ---
 layout: post
 title: LC 792 Number of Matching Subsequences
-categories: [LeetCode, Array, 2D, Medium, G]
+categories: [LeetCode, Array, 2D, Medium, Google]
 ---
 
 LeetCode Link: [https://leetcode.com/problems/number-of-matching-subsequences/](https://leetcode.com/problems/number-of-matching-subsequences/)  

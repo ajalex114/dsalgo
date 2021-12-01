@@ -1,7 +1,7 @@
 ---
 layout: post
 title: LC 1110 Delete Nodes And Return Forest
-categories: [LeetCode, Tree, Recursion, Medium, G, A, F]
+categories: [LeetCode, Tree, Recursion, Medium, Google, Amazon, Facebook]
 ---
 
 LeetCode Link: [https://leetcode.com/problems/delete-nodes-and-return-forest/](https://leetcode.com/problems/delete-nodes-and-return-forest/)  
