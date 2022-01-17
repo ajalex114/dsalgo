@@ -1,7 +1,7 @@
 ---
 layout: post
 title: LC 24 Swap Nodes in Pairs
-categories: [LeetCode, LinkedList, Medium, A, M, F, G]
+categories: [LeetCode, LinkedList, Medium, Amazon, Microsoft, Facebook, Google]
 ---
 
 LeetCode Link: [https://leetcode.com/problems/swap-nodes-in-pairs/](https://leetcode.com/problems/swap-nodes-in-pairs/)  

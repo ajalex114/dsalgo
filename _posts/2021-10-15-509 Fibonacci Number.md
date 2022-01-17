@@ -1,7 +1,7 @@
 ---
 layout: post
 title: LC 509 Fibonacci Number
-categories: [LeetCode, DP, Easy, A, F]
+categories: [LeetCode, DP, Easy, Amazon, Facebook]
 ---
 
 LeetCode Link: [https://leetcode.com/problems/fibonacci-number/](https://leetcode.com/problems/fibonacci-number/)  

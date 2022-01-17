@@ -1,7 +1,7 @@
 ---
 layout: post
 title: LC 299 Bulls and Cows
-categories: [LeetCode, Array, Medium, G]
+categories: [LeetCode, Array, Medium, Google]
 ---
 
 LeetCode Link: [https://leetcode.com/problems/bulls-and-cows/](https://leetcode.com/problems/bulls-and-cows/)  

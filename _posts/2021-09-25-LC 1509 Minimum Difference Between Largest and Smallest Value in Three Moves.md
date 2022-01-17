@@ -1,7 +1,7 @@
 ---
 layout: post
 title: LC 1509 Minimum Difference Between Largest and Smallest Value in Three Moves
-categories: [LeetCode, Array, Medium, G]
+categories: [LeetCode, Array, Medium, Google]
 ---
 
 LeetCode Link: [https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/](https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/)  

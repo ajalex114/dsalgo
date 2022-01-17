@@ -1,7 +1,7 @@
 ---
 layout: post
 title: LC 344 Reverse String
-categories: [LeetCode, String, Recursion, Easy, A, M]
+categories: [LeetCode, String, Recursion, Easy, Amazon, Microsoft]
 ---
 
 LeetCode Link: [https://leetcode.com/problems/reverse-string/](https://leetcode.com/problems/reverse-string/)  

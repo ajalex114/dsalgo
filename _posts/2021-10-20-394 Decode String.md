@@ -1,7 +1,7 @@
 ---
 layout: post
 title: LC 394 Decode String
-categories: [LeetCode, Stack, Medium, G, M, U, A, F, O]
+categories: [LeetCode, Stack, Medium, Google, Microsoft, Uber, Amazon, Facebook, Oracle]
 ---
 
 LeetCode Link: [https://leetcode.com/problems/decode-string/](https://leetcode.com/problems/decode-string/)  

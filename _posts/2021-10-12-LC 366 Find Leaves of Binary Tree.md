@@ -1,7 +1,7 @@
 ---
 layout: post
 title: LC 366 Find Leaves of Binary Tree
-categories: [LeetCode, Tree, Medium, G, L]
+categories: [LeetCode, Tree, Medium, Google, LinkedIn]
 ---
 
 LeetCode Link: [https://leetcode.com/problems/find-leaves-of-binary-tree/](https://leetcode.com/problems/find-leaves-of-binary-tree/)  

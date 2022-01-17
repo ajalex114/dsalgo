@@ -1,7 +1,7 @@
 ---
 layout: post
 title: LC 56 Merge Intervals
-categories: [LeetCode, Array, Medium, A, M, F, G, U, Ap, L]
+categories: [LeetCode, Array, Medium, Amazon, Microsoft, Facebook, Google, Uber, Apple, LinkedIn]
 ---
 
 LeetCode Link: [https://leetcode.com/problems/merge-intervals/](https://leetcode.com/problems/merge-intervals/)  
