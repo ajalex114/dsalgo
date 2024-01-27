@@ -55,7 +55,7 @@ public class Solution
         m[0] = cost[0];
         m[1] = cost[1];
         
-        for (int i=2; i<cost.Length; i++)
+        for (int i=2; i < cost.Length; i++)
         {
             m[i] = cost[i] + Math.Min(m[i-1], m[i-2]);
         }

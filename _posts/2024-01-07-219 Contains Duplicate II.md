@@ -40,7 +40,7 @@ public class Solution
     {
         var d = new Dictionary<int, int>();
 
-        for (int i=0; i< nums.Length; i++)
+        for (int i=0; i < nums.Length; i++)
         {
             if (d.ContainsKey(nums[i]))
             {
@@ -51,6 +51,7 @@ public class Solution
             }
             d[nums[i]] = i;
         }  
+        
         return false;
     }
 }

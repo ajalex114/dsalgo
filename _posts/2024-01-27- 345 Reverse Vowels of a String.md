@@ -41,11 +41,11 @@ public class Solution
             return s;
         }   
 
+        char[] vow = ['a','e', 'i', 'o', 'u', 'A', 'E', 'I', 'O', 'U'];
         var tmp = new int[s.Length];    
         var c = 0;
-        char[] vow = ['a','e', 'i', 'o', 'u', 'A', 'E', 'I', 'O', 'U'];
 
-        for (int i=0; i< s.Length; i++)
+        for (int i=0; i < s.Length; i++)
         {
             if (vow.Contains(s[i]))
             {
@@ -62,8 +62,8 @@ public class Solution
         var last = c-1;
         c = 0;
         
-        StringBuilder o = new StringBuilder();
-        for (int i=0; i< s.Length; i++)
+        var o = new StringBuilder();
+        for (int i=0; i < s.Length; i++)
         {
             if (i == tmp[c])
             {
@@ -72,9 +72,9 @@ public class Solution
                 c++;
                 continue;
             }
+
             o.Append(s[i]);
         }
-
 
         return o.ToString();
     }

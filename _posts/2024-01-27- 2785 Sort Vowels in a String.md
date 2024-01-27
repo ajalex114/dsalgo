@@ -43,8 +43,8 @@ public class Solution
 {
     public string SortVowels(string s) 
     {
-        var c = new int[s.Length];
         char[] vows = ['a','e', 'i', 'o', 'u', 'A', 'E', 'I', 'O', 'U'];
+        var c = new int[s.Length];
         var pos = 0;
 
         for (int i=0; i < s.Length; i++)
@@ -62,15 +62,16 @@ public class Solution
         }
 
         var vow = new char[pos];
+
         for (int i=0; i < pos; i++)
         {
             vow[i] = s[c[i]];
         }
 
-        Array.Sort(vow);
-        
+        Array.Sort(vow);        
         pos = 0;
         var sb = new StringBuilder();
+
         for (int i=0; i < s.Length; i++)
         {
             if (i == c[pos])
@@ -79,9 +80,9 @@ public class Solution
                 pos++;
                 continue;
             }
+         
             sb.Append(s[i]);
         }
-
 
         return sb.ToString();
     }

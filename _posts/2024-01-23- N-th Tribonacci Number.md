@@ -45,10 +45,12 @@ public class Solution
         {
             return 0;
         }
-        if (n<=2)
+        
+        if (n <= 2)
         {
             return 1;
         }
+
         var m = new int[3];
         m[0] = 0;
         m[1] = 1;
