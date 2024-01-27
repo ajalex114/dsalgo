@@ -1,6 +1,6 @@
 ---
 layout: post
-title: LC 219. Contains Duplicate II
+title: N-th Tribonacci Number
 categories: [LeetCode, Array, DP, Easy]
 ---
 

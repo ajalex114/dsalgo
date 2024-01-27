@@ -1,7 +1,7 @@
 ---
 layout: post
-title: LC 219. Contains Duplicate II
-categories: [LeetCode, Array, DP, Easy]
+title: 345. Reverse Vowels of a String
+categories: [LeetCode, Array, Easy]
 ---
 
 LeetCode Link: [345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description/?source=submission-ac)  

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: LC 219. Contains Duplicate II
+title: Min Cost Climbing Stairs
 categories: [LeetCode, Array, DP, Easy]
 ---
 
